@@ -41,7 +41,9 @@ object-segmentation-identification-system/ ├── app.py # Main Streamlit app
 - Python
 - Streamlit
 - OpenCV
+- Pytesseract
 - TensorFlow/PyTorch (depending on the segmentation model used)
+- Image (from PIL)
 - SQLite (or any database of choice)
 
 ## Contact
