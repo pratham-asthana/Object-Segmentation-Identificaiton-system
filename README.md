@@ -7,6 +7,8 @@ This repository contains an Object Segmentation and Identification System with a
 - **Image Upload**: Users can browse and upload images through the Streamlit interface.
 - **Object Segmentation**: The model segments objects in the uploaded image.
 - **Unique ID Assignment**: Each segmented object is assigned a unique ID.
+- **Object Extraction**: Each segmented object is extracted and stored as a seperate .png file.
+- **Text Extraction**: Any text present in the image can be extracted from the image.
 - **Database Management**: A database is maintained to store and manage segmented objects.
 - **Object Identification and Labeling**: The system identifies and labels objects within the image.
 
